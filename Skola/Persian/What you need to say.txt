@@ -1,0 +1,3 @@
+namn 
+ålder 
+vad du gillar att göra på fri tiden.

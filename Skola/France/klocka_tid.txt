@@ -1,0 +1,30 @@
+vad är klockan = il est quelle heure?
+
+
+klockan är åtta = il est huit heures.
+
+
+klockan är tio över åtta = il est huit heures dix
+
+
+
+klockan är kvart över åtta = il est huit heures et quart
+
+
+
+klockan är halv nio = il est huit heures et demie
+
+
+
+klockan är tjugo i nio = il est neuf heures moins vingt.
+
+
+
+klockan är tio i nio = il estr neuf heures moins dix.
+
+
+
+klockan är 12 på dagen = il est midi
+
+
+klockan är 12 på natten = il est minuit

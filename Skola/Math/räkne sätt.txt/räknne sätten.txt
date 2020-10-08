@@ -1,0 +1,11 @@
+term + term = Summa
+
+term - term = differans
+
+factor * factor = product
+
+täljare / nämnare = kvot
+
+
+
+

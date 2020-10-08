@@ -1,0 +1,10 @@
+Måndag = lundi
+Tisdag = mardi
+Onsdag = mercredi
+Torstag = jeudi
+Fredag = vanderdi
+Lördag = samdi
+Söndag = dimanche
+
+en dag = un jour
+dagen = lejoure

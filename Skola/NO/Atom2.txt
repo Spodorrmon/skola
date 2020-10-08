@@ -1,0 +1,73 @@
+Atom:
+    Atomer är små particlar som i sin tur består av mindre små delar.
+
+
+Densitet:
+    Densitet är hur kompakt en object är alltså hur kompakt objectets molekyler är.
+    Alltså att två object kan väga olika ändå om är lika stora, till exempel en folie som eller en sten som är lika stor.
+
+
+Massa:
+    Massa regeln (W = mg) gör att saker kan väga olika mycket beroende på deras Densitet. 
+
+
+Trögmassa:
+    Det är när en en object inte känner inte något om den rör sig med samma hastigeht (rakt), 
+    tillexempel att man tappar balancen eller ramlar om ett tåg bråmsar och om man står
+
+
+Gravitation:
+    Gravitation är en kraft som drar allt mot sig (till mitten av jorden där mittpunkten ligger) och allt annat som är runt den åker mot den 
+    i en zon som kallas magnetiska fält.
+
+
+Atomkärnans Struktur
+    En Atomkärna är uppbygd av Protoner (Positiv laddade) och Neotroner (inte laddade), sedan finns det elektroner runt om kring 
+    den som är negativ laddade.
+
+
+Atom nummer:
+    Det är Atomnummer (Atomens nummer) som visar hur måna protoner det finns i Atomens kärna.
+
+
+Masstal
+    Masstal är hur många protoner ocj neotroner det finns i Atomens körna.
+
+
+Isotoper
+    Isotoper kallas det när man varierar på neotroner.
+
+Electronskal
+    är skal som är runt kärnan av en atom. elektroner kan ha olika många elektroner.
+        K = 2
+        L = 8
+        M = 18
+        N = 32
+        O = 50
+
+fakta om grund ämnen:
+    Det finns 118 grundämnen.
+    Grönd ämnen är uppdelande efter hur de reagerar och vilka egenskaper de har.
+    Alla grundämnen ett atom nummer.
+    Atom nummret visar hurmånga elektroner atomen har.
+    Periodiskasystemet är indelat i tre delar.(metaller, halv metaller, icke metaller)
+    Periodiskasystemet är indelade i 18 grupper vilket är indelat beroende om de ha gemensamma saker.
+    G.1 Alkalimetaller
+        Har endast en elektron i sista skalet och är lätta att bilda kemiskaföreningar med.
+        Alkalimetaller har låg smält punkt och, väger lite, är mjuka och har låg densitet.
+    
+    G.2 Alkaliskajordartsmetaller
+        Har två elektroner i sista skalet
+        Radioaktivitet (ger strålningar)
+
+    G.3-12 Övergångsmetaller
+        Tunga metaller.
+        Hög densitet.
+        Hårda.
+        hög smält kokpunkt.
+
+    G.18 Ädelgaser
+        Har 8 elektroner i sitt yttersta skal (gäller ej helium (2) )
+        Dessa grundämnen är stabila och är svåra är reagera med andra ämnen.
+
+    Dessa grundämnen kan vara på olika sorters former som Fastform, Flytande och Gasform.

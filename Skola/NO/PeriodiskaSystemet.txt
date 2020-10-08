@@ -1,0 +1,59 @@
+Ungefär hur många grundämnen finns det?
+    Det finns ungefär 118 grundämnen.
+
+
+Var i periodiska systemet finns icke-metallerna?
+    Man kan hitta de längs till höger.
+
+
+Vad har ämnena i grupp 1 gemensamt?
+    Har endast en elektron i sista skalet och är lätta att bilda kemiskaföreningar med.
+    Alkalimetaller har låg smält punkt och, väger lite, är mjuka och har låg densitet.
+
+
+Vad har grundämnena i huvudgrupp 18 gemensamt? 
+    Har 8 elektroner i sitt yttersta skal (gäller ej helium(2))
+    Dessa grundämnen är stabila och är svåra är reagera med andra ämnen.
+
+Vilken annan information om grundämnena finns i det periodiska systemet?
+    Man kan se hur många elektroner Atomen har. 
+
+
+Vad betyder de olika färgerna i periodiska systemet. 
+    De visar olika saker som tillexempel vilket grupp de tillhör eller vilket form de är i.
+
+
+Klicka på grundämne nr 53. Vilken information får du om ämnet? Vilken aggregationsform har ämnet? Alltså om det är fast, flytande eller gasform.
+    Hur många elektroner det finns och vart de finns, vilket grupp de tillhör, deras kokpunkt, aggregationsform, hurmånga elektroner de har, hurmånga
+    protoner de har och hur mycket densitet de har.("FAST")
+        Kokpunkt	184 °C
+        Smältpunkt	114 °C
+        Masstal	126,90 u
+        Densitet	4,35 g/cm3
+        Oxidationssteg	-1
+        Elektronegativitet	2,66
+
+Klicka på grundämne nr 7. Vilken information får du om ämnet? Vilken aggregationsform har ämnet? 
+    Hur många elektroner det finns och vart de finns, vilket grupp de tillhör, smältpunkt, deras kokpunkt, aggregationsform, hurmånga elektroner de har, hurmånga
+    protoner de har och hur mycket densitet de har. ("GAS")
+        Kokpunkt	-196 °C
+        Smältpunkt	-210 °C
+        Masstal	14,01 u
+        Densitet	0,00117 g/cm3
+        Oxidationssteg	-3
+        Elektronegativitet	3,04
+
+
+Välj huvudgrupp 17. Vad kallas ämnena i gruppen? Vad betyder det? 
+    De är giftiga.
+
+
+Välj metaller. Hur många grundämnen är metaller?
+    80% av 118
+
+
+Vilken metall har högst smältpunkt?
+    Kelvin
+
+Vilket ämne har lägst smältpunkt? Har alla ämnen en smältpunkt?
+    Helium

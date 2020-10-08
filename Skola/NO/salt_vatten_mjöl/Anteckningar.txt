@@ -1,0 +1,26 @@
+f.1 <Kalt vatten(200 ml) med mjöl (en matsked) > :
+
+    Start:
+        först häller mjöl i kalt vatten.
+        sakta sjönk till båtten.
+        väntar 2 min 
+        blandade.
+        Små deg klummpar kom till ytan och vattnet blev bindre genomskillnigt.
+
+
+f.2 <Varmt vatten (200 ml) med mjöl (en matsked) > :
+
+    Start:
+        först häller mjöl i kalt vatten.
+        Snabbt sjönk till båtten.
+        Väntar 2 min.
+        blandade.
+        Vattnet blev mindre genomskillnigt. Och skumm kom till ytan av vattnet.
+
+
+f.3 <Varmt vatten (200 ml) med salt (en tesked) > :
+
+    Start:
+        först häller salt i Varmt vatten.
+        Vattnet blir mindre genomskillnigt.
+        

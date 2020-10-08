@@ -1,0 +1,12 @@
+Jag är/var = "am" / "was"
+
+Du är/var = "are" / "were"
+
+Han/Hon/Den/Det är/var = "is" / "was"
+
+Vi = "are" / "were"
+
+Ni = "are" / "were"
+
+De = "are" / "were"
+

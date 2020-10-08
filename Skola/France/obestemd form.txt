@@ -1,0 +1,23 @@
+EN / Ett = Un / Une
+
+
+un = male
+une = famle
+
+
+un chat = en katt
+une chaise = en stol
+
+
+des = plural
+des chaises = stolar
+
+
+une__  stolen = le chaise
+un__  katten = la chatt
+
+
+des__ katter = les chats
+des__ stolar = les chaises
+
+
