@@ -20,13 +20,16 @@ Det du behöver kunna inför provet:
 
 
     Vad som är skillnaden på Klimat och väder:
-        klimat är hur en playts temperatur och vegitation är under en långt tid som kanske några år men väder är bara väder som 
+        klimat är hur en plats temperatur och vegitation är under en långt tid som kanske några år men väder är bara väder som 
         inte är kvar lika lände som kanke att det ska vara regnight under den här veckan 
 
 
     Vad som bestämmer klimatet:
-        Det är avståndet från ekvatorn eller själva positionen som bestämmer det. Till exempel är det en tropisk klimat vid ekvatorn för att
-        det regnar mycket där.
+        Det är avståndet från ekvatorn för att desto längre i från ekvatorn man är desto snedare solens strålar blir jämnfört med vid ekvatorn där det är Zenit
+        alltså rakt övanför. Höjden bestämmer också hur klimatet är eftersom desto högre höjd är klimatet kallare eftersom det är tunnare luft längre upp man kommer.
+        Avståndet till havet spelar också roll i klimatet eftersom vatten byter pemperatur långsammare än land och därför orsakar till vissa sorts vindar som
+        till exempel monsunvindar, sjöbris och landbris och därför är sommrarna inte vå varma och vintrarna inte så kalla.
+
 
     Kunna förklara hur olika typer av lufttryck och nederbörd uppstår
         Lufttryck:
@@ -39,7 +42,6 @@ Det du behöver kunna inför provet:
                 Sedan när luften som hade värmts upp och kommit långt upp himlen så börjar luften som åkt upp att bli kallare och därför förvandlas till nederbörd
                 då bildas det moln och åker till ställe där det finns mycket luft, då blir det nederbör och det bildas högtryck eftersom luften blir kompakt.
                 Detta kallas för högtryck.
-
 
         Nederbörds typer:
             Konvektiv:
@@ -55,80 +57,251 @@ Det du behöver kunna inför provet:
                 lufet lu att den varma luften åker uppåt och kyls ner så att det bildas nederbörd.
 
 
-    Kunna ge exempel på olika typer av vindar/briser
+    Kunna ge exempel på olika typer av vindar/briser:
+        passadvindar:
+            När luften vid ekvatron värms upp och stiger bildas det lågtryck vid ekvatorn. Luften kommer då stiga och röra sig mot ett ställe där det finns högtryck.
+            så luften som har stigit rör sig mot vändkretsarna och blir det vindar från vändkretsarna mot ekvatorn.
+        
+        sjöbris:
+            På dagen värms luften på landet upp och stiger men inte havsvattnet för att det tar längre tid för vatten at byta temperatur än luft.
+            Därför blir det låg tryck på land och högtryck på vah och därefter bildas det vindar mot landet där det finns lågtryck.
+
+        landbris:
+            Fast när det blir natt så blir luften på landet kall men havsvattnet har hunnit bli varm men inte kall. Därför avdunstar
+            vatten och blir till ånga och sedan bildas det låg tryck på havet men högtryck på land så det blir vind från land mot 
+            där det finns lågtryck på hav.
+
+        monsunvindar:
+            Sommar:
+                På sommrar är landet varmare än vattnet och därför blir det lågtryck på land eftersom luften stiger på grund av att den blir varm och expanderar.
+                Då blir det vindar från hav mot land där det finns låg tryck eftersom det är högtryck på havet.
+                Detta kan orsaka till att det blir vågron från havet till landet som kan orsaka till översvämningar.
+            
+            vinter:
+                På vintrar är då vattnet varmare än landet och därför bildas det ånga och däför blir det lågtryck på havet när det är högtryck på landet.
+                Då bildas det vind från land mot havet.
+
+        västvindar:
+            När luften vid ekvatron värms upp och stiger bildas det lågtryck vid ekvatorn. Luften kommer då stiga och röra sig mot ett ställe där det finns högtryck.
+            så luften som har stigit rör sig mot vändkretsarna och blir det vindar från vändkretsarna mot ekvatorn. men lite av luften som har kommit till vändkretsarna
+            fortsätter mot polerna men eftersom jorden roterar så får de en liten vinkel eller kurva så att vinden rör sig från söder till nordöst.
+
+        tromb:
+            Trom som i vissa fall också kallas för tornado är en kraftiga vindar med måln som råterar runt sig själv så att det bildas ett hål i mitten av den och 
+            desto kraftigare den blir desto närmanre jorden kommer att svansen vara.
+
 
     Kunna de olika klimatzonerna och kännetecknar dessa som exempelvis
 
-    Nederbörd
+        Nederbörd:
+            Tropiska:
+                "Väldigt mycket"
 
-    Temperatur
+            Subtropiska:
+                "Väldigt litet"
 
-    Vegetation
+            Tempererat:
+                "Normalt mycket"
 
-    Djurliv
+            Polarklimat:
+                "jätte lite"
 
-    Kunna förklara hur klimatet kan skilja sig inom de olika klimatzonerna
 
-    Kunna läsa av och använda olika typer av geografiska diagram.
+        Temperatur
+            Tropiska:
+                "Varma somrar och milda vintrar"
 
-    Kunna använda och förklara geografiska begrepp som exempelvis:
+            Subtropiska:
+                "Jätte varmt och torra somrar och milda vintrar"
 
-    Atmosfär
+            Tempererat:
+                "Varma sommrar och kalla vintrar"
 
-    Stratosfär
+            Polarklimat:
+                "svala sommrar och milda vintrar"       
 
-    Troposfär
 
-    Jonosfär
+        Vegetation:
+            Tropiska:
+                "Grönt och fint mycket regnskog"
 
-    Ozonskiktet
+            Subtropiska:
+                "Öken inget gräs"
 
-    Subtropiskt klimat
+            Tempererat:
+                "också grönt och fint mycker löv och barrskog"
 
-    Zenit
+            Polarklimat:
+                "Öken bara is"
+        
 
-    Jordens rotation
+        Djurliv
 
-    Vändkretsarna
 
-    Sommarsolstånd & vintersolstånd
+    Kunna förklara hur klimatet kan skilja sig inom de olika klimatzonerna:
+        temperaturen kan skilljas beroende på hurlångt i från ekvatorn det är men detta gäller inta alla ställen.
 
-    Vårdagsjämning & höstdagjämning
 
-    Midnattssol
+    Kunna läsa av och använda olika typer av geografiska diagram:
+        Det kan jag...(detta är praktiskt)
 
-    Polarnatt
 
-    Klimat
+    Kunna de:
+        
+        Atmosfär:
+            Atmosfären är ett lager med luft som till stor del hjälper oss att leva, exempel:
+            Atmosfär skuddar oss mot solens farliga strålar.
+            
+            Den ser till att lite av värmen stannar så att vi inte fryser på nätterna för det är det värmen som då är 
+            kvar för solens stråla inte kan träffa oss när det är natt.
 
-    Globaluppvärmning
 
-    Hög- och lågtryck
+        Stratosfär:
+            "Ett lager av atmosfären den i mitten"
 
-    Temperatur
 
-    Nederbörd
+        Troposfär
+            "Ett lager av atmosfären den i mitten och som vi lever i"
 
-    Sjö- och landbris
 
-    Monsun- och passadvindar
+        Jonosfär:
+            "Ett lager av atmosfären den sista som slutar med rymden"
 
-    Tropiska cykloner
 
-    Polarklimat
+        Ozonlagret:
+            "Är ett lager i atmosfären som ligger mellan trposfären och stratorfären som skyddar oss från solens farliga strålar."
 
-    Tempererat klimat
 
-    Kustklimat och Fastlandsklimat
+        Subtropiskt klimat:
+            "Det är en torr och varm klimat som är vid vänkretasna"
 
-    Medelhavsklimat
 
-    Öken
+        Zenit:
+            "När solen ligga raktövanför dig så kallas det för Zenit"
 
-    Stäpp
 
-    Regnskog
+        Jordens rotation:
+            "Att jorden roterar runt sig själv och solen"
 
-    Savann
 
-    Växthuseffekt
+        Vändkretsarna:
+            Vi har två vändkretsar en av de som kallas för kreftansvändkrets eller norravändkrets och den andra heter stenbokensvändkrets som också kallas 
+            för södravändkrets.
+
+
+        Sommarsolstånd & vintersolstånd:
+            Sommarsolstånd:
+                "När vår del av halv klotet alltså norradelen av hanvklotet är närmare solen och däför blir dagarna längre än nätterna."
+
+            vintersolstånd:
+                "Samma sak fast på vinter är naten längre än dagarna"
+
+
+        Vårdagsjämning & höstdagjämning
+            "Vårdagsjämning och höstdagjämning sker mellan sommar och vinter där natt och dag är lika långa."
+
+
+        Midnattssol:
+            "Det är en fenomen som sker där solen alldrig går ner för horizonten på ett helt dygn"
+
+
+        Polarnatt:
+            "Det är en fenomen som sker när solen inte går ner för horizonten på ett helt dygn"
+
+
+        Globaluppvärmning
+            "Att världen blir varmare och varmare eftersom kolioxiden vi släpper gör atmosfären tjockare vilket gör att det kan bli varmare"
+
+
+        Klimat:
+            "Väder på en ställe som gäller för långt period som till exempel flera år."
+
+
+        Hög- och lågtryck
+            lågtryck:
+                När det finns mindre luft på ett ställe.
+            
+            högtryck:
+                När det finns kompakt men luft på ett ställe.
+
+
+        Temperatur:
+            Väder som gäller för en kort stund som kanske en dag eller vecka.
+
+
+        Nederbörd:
+            Det som kommer från moln som regn snö och hagel.
+
+
+        sjöbris:
+            På dagen värms luften på landet upp och stiger men inte havsvattnet för att det tar längre tid för vatten at byta temperatur än luft.
+            Därför blir det låg tryck på land och högtryck på vah och därefter bildas det vindar mot landet där det finns lågtryck.
+
+
+        landbris:
+            Fast när det blir natt så blir luften på landet kall men havsvattnet har hunnit bli varm men inte kall. Därför avdunstar
+            vatten och blir till ånga och sedan bildas det låg tryck på havet men högtryck på land så det blir vind från land mot 
+            där det finns lågtryck på hav.
+
+
+        monsunvindar:
+            Sommar:
+                På sommrar är landet varmare än vattnet och därför blir det lågtryck på land eftersom luften stiger på grund av att den blir varm och expanderar.
+                Då blir det vindar från hav mot land där det finns låg tryck eftersom det är högtryck på havet.
+                Detta kan orsaka till att det blir vågron från havet till landet som kan orsaka till översvämningar.
+            
+            vinter:
+                På vintrar är då vattnet varmare än landet och därför bildas det ånga och däför blir det lågtryck på havet när det är högtryck på landet.
+                Då bildas det vind från land mot havet.
+
+
+        passadvindar:
+            När luften vid ekvatron värms upp och stiger bildas det lågtryck vid ekvatorn. Luften kommer då stiga och röra sig mot ett ställe där det finns högtryck.
+            så luften som har stigit rör sig mot vändkretsarna och blir det vindar från vändkretsarna mot ekvatorn.
+
+
+        Tropiska cykloner:
+            Är en stark lågtruck som bildas över tropiska hav som kan utväcklas och bli till kraftiga oväder.
+
+            
+        Polarklimat:
+            Är det kallaste klimatet som finns på jorden. Där är den jätte kallt och det mesta är täckt av is. Där lever det 
+            oftast bara djur som är anpassade att klara sig i jätte kalt väder. Polarklimat är klimatet som ligger längst i från ekvatorn.
+
+
+        Tempererat klimat:
+            Är den näst längst ifrån ekvatorn men också villket det mesta av sverige har. På¨norra delen av detta klimat finns mycker barrskog och på södra 
+            mycket lövskog, Det finns bland annat inlands och kustklimat.
+
+
+        Kustklimat och inlandsklimat:
+            Kustklimat:
+                Det är en klimat där vintrarna inte så kalla och sommrarna inte så varma.
+
+            Inlandsklimat:
+                Det är en klimat där vintrar är jätte kalla och sommrarna mycket varma.
+
+
+        Medelhavsklimat:
+            Det är ett klimat där sommrarna är extremt varma villket gör att mycket turister kommer dit. 
+            Det beror på att solen står i zenit på sommaren hos de länderna som har Medelhavsklimat.
+
+
+        Öken:
+            Är ett ställe där det är högst ca 250mm nederbörd
+
+
+        Stäpp:
+            Är en landskap eller yta som inte har träd och bara buskar mossor.
+
+
+        Regnskog:
+            Regnskog är en ständigt grönt skog där det kommer ca 1500mm nederbörd.
+
+
+        Savann:
+            Det är ett ställe där det är slättområde som har högagräs och som är nära ekvatorn mellan regnskogar och ökenområden
+
+
+        Växthuseffekt:
+            När solens strålar kommer innanför atmosfären så värmer den jorden fast när den ska studsa ut ur atmosfären så studsar den till backa tills den kall.
